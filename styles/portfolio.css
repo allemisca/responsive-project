@@ -68,6 +68,7 @@ p {
 @media (max-width: 900px) {
   .project-text {
     padding: 0;
+    text-align: center;
   }
   .home h1 {
     font-size: 40px;
