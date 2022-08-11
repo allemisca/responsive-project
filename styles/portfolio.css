@@ -117,6 +117,17 @@ p {
   max-height: 50px;
 }
 
+footer .contact-box {
+  margin: 80px 40px;
+  padding: 30px 120px;
+  background-color: #f9f7fe;
+  font-family: "Playfair Display", serif;
+}
+
+footer .contact-box h4 {
+  font-size: 48px;
+}
+
 footer .contact-email a {
   font-size: 24px;
   text-decoration: none;
